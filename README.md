@@ -11,4 +11,8 @@ Git、SVN和DS_Store三种常见源码泄露Dump 界面化工具
 - **代理支持**：灵活的网络代理配置选项
 - **详细的日志记录**：完整记录扫描过程和结果
 
-- 
+
+![3](https://github.com/user-attachments/assets/865ce318-a04e-4af6-91d3-cc58a2f87b34)
+![2](https://github.com/user-attachments/assets/f536c297-f165-4374-9ef5-d170a1453287)
+![1](https://github.com/user-attachments/assets/92fc874b-bac3-4ca8-be5a-1c905fa6d05d)
+![yyds](https://github.com/user-attachments/assets/ef5de12c-bfda-4b49-b0f9-5a524513965f)
